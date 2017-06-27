@@ -34,3 +34,6 @@ sysinfo.txt
 *.unitypackage
 *.exe
 /*_Data
+
+# External assets
+/Assets/External*
