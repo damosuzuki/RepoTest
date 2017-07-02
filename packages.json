@@ -1,0 +1,15 @@
+﻿{
+  "exports": {
+    "foo": {
+      "version": 1,
+      "assets": [
+        "./Assets/Foo.prefab",
+        "./Assets/Foo.cs"
+      ]
+    }
+  },
+  "external": {
+    "sphere": "https://www.dropbox.com/s/n9969so8bh57jms/sphere-v1.unitypackage?dl=1",
+    "cylinder": "https://www.dropbox.com/s/8j0mupy3ugcnnx2/cylinder-v1.unitypackage?dl=1"
+  }
+}
