@@ -4,6 +4,7 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 using UnityEngine;
+using UnityEngine.Networking;
 
 // Lightly modified from: https://gist.github.com/tkyaji/115fd06c8a180cb0636af923a1894978
 
